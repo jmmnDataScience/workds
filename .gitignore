@@ -1,0 +1,9 @@
+# Date priv
+
+notebook/datapriv
+
+
+# jupyter
+
+.DS_Store
+.ipynb_checkpoints
